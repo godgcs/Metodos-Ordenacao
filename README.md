@@ -3,7 +3,7 @@ Implementação de métodos de ordenação - Trabalho realizado no 3° período 
 
 ### Integrantes
 
-- Guilherme Cardoso
+- Guilherme Cardoso Silva
 
 ### Instruções Para Compilar
 
