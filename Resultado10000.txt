@@ -1,0 +1,36 @@
+***** Metodo Bolha *****
+
+Media do tempo gasto na ordenacao considerando 3 execucoes: 0.74 segundos 
+Media das comparacoes na ordenacao considerando 3 execucoes: 50005000.00 comparacoes 
+Media das trocas na ordenacao considerando 3 execucoes: 25019652.00 trocas 
+Desvio-Padrao do tempo gasto na ordenacao considerando 3 execucoes: 0.03 segundos 
+Desvio-Padrao das comparacoes na ordenacao considerando 3 execucoes: 0.00 comparacoes 
+Desvio-Padrao das trocas na ordenacao considerando 3 execucoes: 4713.57 trocas 
+
+***** Metodo Inserção *****
+
+Media do tempo gasto na ordenacao considerando 3 execucoes: 0.30 segundos 
+Media das comparacoes na ordenacao considerando 3 execucoes: 25026305.00 comparacoes 
+Media das trocas na ordenacao considerando 3 execucoes: 25026319.00 trocas 
+Desvio-Padrao do tempo gasto na ordenacao considerando 3 execucoes: 0.00 segundos 
+Desvio-Padrao das comparacoes na ordenacao considerando 3 execucoes: 0.00 comparacoes 
+Desvio-Padrao das trocas na ordenacao considerando 3 execucoes: 0.00 trocas 
+
+***** Metodo Quicksort *****
+
+Media do tempo gasto na ordenacao considerando 3 execucoes: 0.00 segundos 
+Media das comparacoes na ordenacao considerando 3 execucoes: 152649.33 comparacoes 
+Media das trocas na ordenacao considerando 3 execucoes: 88292.67 trocas 
+Desvio-Padrao do tempo gasto na ordenacao considerando 3 execucoes: 0.00 segundos 
+Desvio-Padrao das comparacoes na ordenacao considerando 3 execucoes: 2190.26 comparacoes 
+Desvio-Padrao das trocas na ordenacao considerando 3 execucoes: 498.86 trocas 
+
+***** Metodo Quicksort Turbinado *****
+
+Media do tempo gasto na ordenacao considerando 3 execucoes: 0.00 segundos 
+Media das comparacoes na ordenacao considerando 3 execucoes: 119074.33 comparacoes 
+Media das trocas na ordenacao considerando 3 execucoes: 60205.00 trocas 
+Desvio-Padrao do tempo gasto na ordenacao considerando 3 execucoes: 0.00 segundos 
+Desvio-Padrao das comparacoes na ordenacao considerando 3 execucoes: 2816.96 comparacoes 
+Desvio-Padrao das trocas na ordenacao considerando 3 execucoes: 5730.92 trocas 
+

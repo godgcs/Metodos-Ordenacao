@@ -1,0 +1,36 @@
+***** Metodo Bolha *****
+
+Media do tempo gasto na ordenacao considerando 3 execucoes: 72.69 segundos 
+Media das comparacoes na ordenacao considerando 3 execucoes: 5000050000.00 comparacoes 
+Media das trocas na ordenacao considerando 3 execucoes: 2508917476.33 trocas 
+Desvio-Padrao do tempo gasto na ordenacao considerando 3 execucoes: 0.18 segundos 
+Desvio-Padrao das comparacoes na ordenacao considerando 3 execucoes: 0.00 comparacoes 
+Desvio-Padrao das trocas na ordenacao considerando 3 execucoes: 47140.45 trocas 
+
+***** Metodo Inserção *****
+
+Media do tempo gasto na ordenacao considerando 3 execucoes: 29.78 segundos 
+Media das comparacoes na ordenacao considerando 3 execucoes: 2508984132.00 comparacoes 
+Media das trocas na ordenacao considerando 3 execucoes: 2508984143.00 trocas 
+Desvio-Padrao do tempo gasto na ordenacao considerando 3 execucoes: 0.24 segundos 
+Desvio-Padrao das comparacoes na ordenacao considerando 3 execucoes: 0.00 comparacoes 
+Desvio-Padrao das trocas na ordenacao considerando 3 execucoes: 0.00 trocas 
+
+***** Metodo Quicksort *****
+
+Media do tempo gasto na ordenacao considerando 3 execucoes: 0.03 segundos 
+Media das comparacoes na ordenacao considerando 3 execucoes: 2006116.33 comparacoes 
+Media das trocas na ordenacao considerando 3 execucoes: 1167651.33 trocas 
+Desvio-Padrao do tempo gasto na ordenacao considerando 3 execucoes: 0.00 segundos 
+Desvio-Padrao das comparacoes na ordenacao considerando 3 execucoes: 34860.82 comparacoes 
+Desvio-Padrao das trocas na ordenacao considerando 3 execucoes: 45153.91 trocas 
+
+***** Metodo Quicksort Turbinado *****
+
+Media do tempo gasto na ordenacao considerando 3 execucoes: 0.03 segundos 
+Media das comparacoes na ordenacao considerando 3 execucoes: 1602654.67 comparacoes 
+Media das trocas na ordenacao considerando 3 execucoes: 841954.33 trocas 
+Desvio-Padrao do tempo gasto na ordenacao considerando 3 execucoes: 0.00 segundos 
+Desvio-Padrao das comparacoes na ordenacao considerando 3 execucoes: 26843.70 comparacoes 
+Desvio-Padrao das trocas na ordenacao considerando 3 execucoes: 62539.32 trocas 
+
